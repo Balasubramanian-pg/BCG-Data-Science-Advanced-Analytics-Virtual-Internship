@@ -1,6 +1,6 @@
 # BCG-Data-Science-Advanced-Analytics-Virtual-Internship
-#Task 1
-##Business Understanding & Hypothesis Framing
+# Task 1
+## Business Understanding & Hypothesis Framing
 Understanding the business context and problem statement.
 Here is the background information on your task
 
@@ -25,8 +25,8 @@ If you are stuck: 
     What kind of exploratory analyses on the relevant fields can give more insights about the customer's churn behavior? 
 
 Task 2
-#Exploratory Data Analysis
-##Understanding the business through data
+# Exploratory Data Analysis
+## Understanding the business through data
 Here is the background information on your task
 
 The BCG project team thinks that building a churn model to understand whether price sensitivity is the largest driver of churn has potential. The client has sent over some data and the AD wants you to perform some exploratory data analysis.
@@ -39,16 +39,16 @@ The data that was sent over includes:
 
 Here is your task
 
-###Sub-Task 1:
+### Sub-Task 1:
 
 Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for you to gain a holistic understanding of the dataset. You should spend around 1 hour on this.
 
-###Sub-Task 2:
+### Sub-Task 2:
 
 Verify the hypothesis of price sensitivity being to some extent correlated with churn. It is up to you to define price sensitivity and calculate it. You should spend around 30 minutes on this.
 
 
-###Sub-Task 3:
+### Sub-Task 3:
 
 Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other sources of data should the client provide you with and which open source datasets might be useful? You should spend 10-15 minutes on this.
 
@@ -59,8 +59,8 @@ Note: Use the 2 datasets within the additional resources for this task and if yo
 If you are stuck: Think about ways you can define price sensitivity. Make sure to think of all possible ways and investigate them.
 
 Task 3
-#Feature Engineering & Modelling
-##Here is the background information on your task
+# Feature Engineering & Modelling
+## Here is the background information on your task
 
 The team now has a good understanding of the data and feels confident to use the data to further understand the business problem. The team now needs to brainstorm and build out features to uncover signals in the data that could inform the churn model.
 
@@ -78,7 +78,7 @@ Build your models and test them while keeping in mind you would need data to pro
 Uncovering signals within the data, predicting churn probability and evaluating model performance
 Here is your task
 
-###Sub-Task 1
+### Sub-Task 1
 
 Your colleague has done some work on engineering the features within the cleaned dataset and has calculated a feature which seems to have predictive power. 
 
@@ -88,7 +88,7 @@ Run the cells in the notebook provided (named feature_engineering.ipynb) to re-c
 
 You should spend 1 - 1.5 hours on this. Be sure to make use of the “feature_engineering.ipynb” notebook to get started with re-creating your colleagues' features.
 
-###Sub-Task 2
+### Sub-Task 2
 
 Now that you have a dataset of cleaned and engineered features, it is time to build a predictive model to see how well these features are able to predict a customer churning. It is your task to train a Random Forest classifier and to evaluate the results in an appropriate manner. We would also like you to document the advantages and disadvantages of using a Random Forest for this use case. It is up to you how to fulfill this task, but you may want to use the below points to guide your work:
 
@@ -102,7 +102,7 @@ You should spend 1 - 1.5 hours on this. When it comes to model evaluation and th
 
 If you are stuck:
 
-###Sub-Task 1
+### Sub-Task 1
 
     Think of ways to evaluate a feature against a label.
     Think of ways to add new features which would complement the already existing ones. 
@@ -110,7 +110,7 @@ If you are stuck:
     Remove unnecessary features.
      
 
-###Sub-Task 2
+### Sub-Task 2
 
     Is this problem best represented as classification or regression? 
     What kind of model performance do you think is appropriate? 
@@ -119,7 +119,7 @@ If you are stuck:
  
  
 Task 4
-#Findings & Recommendations
+# Findings & Recommendations
 
 Presenting your results and giving recommended actions to the client
 
