@@ -147,3 +147,4 @@ If you are stuck:
 
     What do you think the client wants to hear? How much detail should you go into, especially with the technical details of your work? 
     Always test what you write with the “so what?” test, i.e. sharing a fact, even an interesting one, only matters if the client can actually do something useful with it. E.g. 60% of your customers are from City A is pointless, but customers in City A should be prioritized for giving discount as they are among your most valuable ones, if true, is an actionable finding
+These are the main ideas though
